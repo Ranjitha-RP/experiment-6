@@ -1,0 +1,1 @@
+this experiment demonstrate git branching,merging ,merge conflict resolution,and the files of git status for temporarly saving unfinished work"
